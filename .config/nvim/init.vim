@@ -12,7 +12,6 @@ call plug#begin()
 	" Autocomplete
 	Plug 'neoclide/coc.nvim', {'branch': 'release'}
 	Plug 'preservim/nerdcommenter'
-	Plug 'rrethy/vim-hexokinase', {'do': 'make hexokinase'}
 	Plug 'jiangmiao/auto-pairs'
 	
 	" Top Bar

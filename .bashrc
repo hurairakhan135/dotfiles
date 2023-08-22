@@ -29,3 +29,5 @@ unset rc
 eval "$(starship init bash)"
 
 eval "$(zoxide init bash)"
+
+export PATH=$PATH:~/.emacs.d/bin/doom
